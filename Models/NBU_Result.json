@@ -1,0 +1,194 @@
+[
+    {
+        "title": "BAA dirhami",
+        "code": "AED",
+        "cb_price": "3330.91",
+        "nbu_buy_price": null,
+        "nbu_cell_price": null,
+        "date": "01.11.2023 18:00:01"
+    },
+    {
+        "title": "Avstraliya dollari",
+        "code": "AUD",
+        "cb_price": "7790.88",
+        "nbu_buy_price": null,
+        "nbu_cell_price": null,
+        "date": "01.11.2023 18:00:01"
+    },
+    {
+        "title": "Kanada dollari",
+        "code": "CAD",
+        "cb_price": "8855.90",
+        "nbu_buy_price": null,
+        "nbu_cell_price": null,
+        "date": "01.11.2023 18:00:01"
+    },
+    {
+        "title": "Shveytsariya franki",
+        "code": "CHF",
+        "cb_price": "13566.67",
+        "nbu_buy_price": "13100.00",
+        "nbu_cell_price": "14300.00",
+        "date": "01.11.2023 18:00:01"
+    },
+    {
+        "title": "Xitoy yuani",
+        "code": "CNY",
+        "cb_price": "1672.28",
+        "nbu_buy_price": null,
+        "nbu_cell_price": null,
+        "date": "01.11.2023 18:00:01"
+    },
+    {
+        "title": "Daniya kronasi",
+        "code": "DKK",
+        "cb_price": "1748.75",
+        "nbu_buy_price": null,
+        "nbu_cell_price": null,
+        "date": "01.11.2023 18:00:01"
+    },
+    {
+        "title": "Misr funti",
+        "code": "EGP",
+        "cb_price": "395.94",
+        "nbu_buy_price": null,
+        "nbu_cell_price": null,
+        "date": "01.11.2023 18:00:01"
+    },
+    {
+        "title": "Yevro",
+        "code": "EUR",
+        "cb_price": "13051.68",
+        "nbu_buy_price": "12900.00",
+        "nbu_cell_price": "13150.00",
+        "date": "01.11.2023 18:00:01"
+    },
+    {
+        "title": "Angliya funt sterlingi",
+        "code": "GBP",
+        "cb_price": "14914.98",
+        "nbu_buy_price": "14750.00",
+        "nbu_cell_price": "15650.00",
+        "date": "01.11.2023 18:00:01"
+    },
+    {
+        "title": "Islandiya kronasi",
+        "code": "ISK",
+        "cb_price": "88.74",
+        "nbu_buy_price": null,
+        "nbu_cell_price": null,
+        "date": "01.11.2023 18:00:01"
+    },
+    {
+        "title": "Yaponiya iyenasi",
+        "code": "JPY",
+        "cb_price": "81.19",
+        "nbu_buy_price": "70.00",
+        "nbu_cell_price": "90.00",
+        "date": "01.11.2023 18:00:01"
+    },
+    {
+        "title": "Koreya respublikasi voni",
+        "code": "KRW",
+        "cb_price": "9.08",
+        "nbu_buy_price": null,
+        "nbu_cell_price": null,
+        "date": "01.11.2023 18:00:01"
+    },
+    {
+        "title": "Quvayt dinori",
+        "code": "KWD",
+        "cb_price": "39567.98",
+        "nbu_buy_price": null,
+        "nbu_cell_price": null,
+        "date": "01.11.2023 18:00:01"
+    },
+    {
+        "title": "Qozog‘iston tengesi",
+        "code": "KZT",
+        "cb_price": "26.02",
+        "nbu_buy_price": "15.00",
+        "nbu_cell_price": "30.00",
+        "date": "01.11.2023 18:00:01"
+    },
+    {
+        "title": "Livan funti",
+        "code": "LBP",
+        "cb_price": "0.81",
+        "nbu_buy_price": null,
+        "nbu_cell_price": null,
+        "date": "01.11.2023 18:00:01"
+    },
+    {
+        "title": "Malayziya ringgiti",
+        "code": "MYR",
+        "cb_price": "2567.83",
+        "nbu_buy_price": null,
+        "nbu_cell_price": null,
+        "date": "01.11.2023 18:00:01"
+    },
+    {
+        "title": "Norvegiya kronasi",
+        "code": "NOK",
+        "cb_price": "1100.40",
+        "nbu_buy_price": null,
+        "nbu_cell_price": null,
+        "date": "01.11.2023 18:00:01"
+    },
+    {
+        "title": "Polsha zlotiysi",
+        "code": "PLN",
+        "cb_price": "2934.55",
+        "nbu_buy_price": null,
+        "nbu_cell_price": null,
+        "date": "01.11.2023 18:00:01"
+    },
+    {
+        "title": "Rossiya rubli",
+        "code": "RUB",
+        "cb_price": "133.21",
+        "nbu_buy_price": "100.00",
+        "nbu_cell_price": "140.00",
+        "date": "01.11.2023 18:00:01"
+    },
+    {
+        "title": "Shvetsiya kronasi",
+        "code": "SEK",
+        "cb_price": "1103.32",
+        "nbu_buy_price": null,
+        "nbu_cell_price": null,
+        "date": "01.11.2023 18:00:01"
+    },
+    {
+        "title": "Singapur dollari",
+        "code": "SGD",
+        "cb_price": "8962.95",
+        "nbu_buy_price": null,
+        "nbu_cell_price": null,
+        "date": "01.11.2023 18:00:01"
+    },
+    {
+        "title": "Turkiya lirasi",
+        "code": "TRY",
+        "cb_price": "432.48",
+        "nbu_buy_price": null,
+        "nbu_cell_price": null,
+        "date": "01.11.2023 18:00:01"
+    },
+    {
+        "title": "Ukraina grivnasi",
+        "code": "UAH",
+        "cb_price": "337.17",
+        "nbu_buy_price": null,
+        "nbu_cell_price": null,
+        "date": "01.11.2023 18:00:01"
+    },
+    {
+        "title": "AQSh dollari",
+        "code": "USD",
+        "cb_price": "12234.42",
+        "nbu_buy_price": "12230.00",
+        "nbu_cell_price": "12290.00",
+        "date": "01.11.2023 18:00:01"
+    }
+]
